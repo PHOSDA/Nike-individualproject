@@ -1,0 +1,34 @@
+
+.Navbar1 {
+    padding-left: 0px;
+    padding-right: 0px;
+    background-color: #eeeeee;
+   
+    
+
+}
+.custom-margin {
+    margin-left: 14px;
+    margin-right: 12px;
+    
+}
+.nav-link {
+    color: #111;
+    font-family: Helvetica, Arial, Helvetica, sans-serif;
+    
+}
+
+.button{
+    padding-left: 38px;
+    padding-right: 36px;
+    background-color: #eeeeee;
+}
+
+.nav-class{
+    width: 1920px;
+    margin: auto;
+}
+.image{
+    margin-left: 14px;
+    margin-right: 12px;
+}
